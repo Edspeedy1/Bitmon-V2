@@ -1,0 +1,6 @@
+{
+    'bestFloor' : 1,
+    'gold' : 0,
+    'eggs' : 0,
+    'color': [0,0,0],
+}
